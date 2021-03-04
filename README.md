@@ -13,3 +13,9 @@ npm install
 cp .env.example .env
 npm start
 ```
+
+then app is running on 
+
+```
+http://localhost
+```
